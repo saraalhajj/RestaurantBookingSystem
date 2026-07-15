@@ -13,3 +13,5 @@ Following enterprise architectural standards, the project is structured using Cl
 * **Persistence**: Handles direct database communication, ensuring optimized query performance with ANSI-Standard joins and avoiding performance-heavy operations[cite: 1].
 ## System Architecture & Workflow Diagram
 ![System Design](./Restaurant_System_Design.png)
+## Application Wireframes (UI/UX Mockups)
+![UI Wireframes](./Restaurant_Wireframes.png)
