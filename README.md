@@ -15,3 +15,5 @@ Following enterprise architectural standards, the project is structured using Cl
 ![System Design](./Restaurant_System_Design.png)
 ## Application Wireframes (UI/UX Mockups)
 ![UI Wireframes](./Restaurant_Wireframes.png)
+## Application Wireframes (UI/UX Mockups)
+![UI Wireframes](./Restaurant_Wireframes%20%281%29.png)
